@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 import events from './system/events.js';
 import transport from './system/transport.js';
 import store from './system/store.js';
